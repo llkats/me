@@ -13,7 +13,7 @@ Bachelor of Arts, English, University of Michigan, Ann Arbor, MI; December 2007
 
 ### gdgt, San Francisco, CA
 November 2011 – present
-**Front End Developer**
+**Front End Engineer**
 * Creates compelling pages and features for commerce site www.gdgt.com to precise design specifications, including sponsored features for partners such as Best Buy and Canon.
 * Builds custom JavaScript features, including a jQuery carousel plugin used site-wide.
 * Rewrites existing pages as features and design evolve, such as integral product pages and site toolbars.
