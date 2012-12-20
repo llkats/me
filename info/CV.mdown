@@ -3,7 +3,7 @@ http://www.llkats.com/
 llkats@gmail.com
 
 ## Summary
-Front-end web developer with a passion for building dynamic, engaging web sites. Solid academic background in object-oriented programming; professional experience in web site development and maintenance; dedication to habitual learning and improvement in programming and beyond.
+Front-end web developer with a passion for building dynamic, engaging web sites. Solid academic background in object-oriented programming; professional experience in web site development and maintenance; dedication to continuous learning and improvement with evolving web technologies.
 
 ## Education
 Master of Science, Software Technology, Loyola University Chicago; August 2010
@@ -50,9 +50,11 @@ January 2009 – May 2010
 
 SELECTED COURSEWORK
 Client-Side Web Development, Winter 2010
-Built standards-compliant dynamic XHTML web sites with JavaScript, using Dojo and jQuery libraries. Web Services Programming, Fall 2009
+Built standards-compliant dynamic XHTML web sites with JavaScript, using Dojo and jQuery libraries. 
+Web Services Programming, Fall 2009
 Working on a team, built a RESTful Java Project which emulated functionality of Meetup.org.
-Gained an understanding of REST, SOAP, and message-based web architectures. Markup Languages, Summer 2010
+Gained an understanding of REST, SOAP, and message-based web architectures. 
+Markup Languages, Summer 2010
 Achieved proficiency with markup languages and concepts such as XML, XHTML, Xpath and XSLT, and Schema Languages. Gave a presentation on Scalable Vector Graphics.
 
 ### Technology Skills
