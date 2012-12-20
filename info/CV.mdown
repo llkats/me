@@ -1,0 +1,59 @@
+# Lydia L. Katsamberis
+http://www.llkats.com/
+llkats@gmail.com
+
+## Summary
+Front-end web developer with a passion for building dynamic, engaging web sites. Solid academic background in object-oriented programming; professional experience in web site development and maintenance; dedication to habitual learning and improvement in programming and beyond.
+
+## Education
+Master of Science, Software Technology, Loyola University Chicago; August 2010
+Bachelor of Arts, English, University of Michigan, Ann Arbor, MI; December 2007
+
+## Work Experience
+
+### gdgt, San Francisco, CA
+November 2011 – present
+**Front End Developer**
+* Creates compelling pages and features for commerce site www.gdgt.com to precise design specifications, including sponsored features for partners such as Best Buy and Canon.
+* Builds custom JavaScript features, including a jQuery carousel plugin used site-wide.
+* Rewrites existing pages as features and design evolve, such as integral product pages and site toolbars.
+* Assisted in creating a new mobile site compatible on iOS Safari, Android stock browser, Chrome, and Windows Mobile Internet Explorer. Continues to build and debug new features for mobile as necessary.
+
+### UBM Studios, Chicago, IL
+August 2010 – October 2011
+**Jr. Web Developer**
+* Programmed proprietary dynamic custom features for an online events platform in a variety of languages including JavaScript, XHTML/HTML5, CoffeeScript, LESS CSS, and PHP. 
+* All custom features were coded to client specifications and integrated using the platform's API, and were cross-browser compatible for IE6-9, Safari, and Firefox.
+* Assisted coworkers in creating, maintaining, and debugging event-related email campaigns and microsites.
+
+### Fathead Design, Chicago, IL
+March 2010 – August 2010
+**Web Developer Intern**
+* Developed new client websites to specification, including Wordpress- and Drupal-based sites, in addition to hand-coded microsites. 
+* Maintained and updated client sites across multiple CMSes, including Wordpress, Drupal, and Magento.
+* Programmed, tested, and sent cross-browser-compatible email campaigns.
+
+### Loyola University Chicago Libraries, Chicago, IL
+February 2009 – June 2010
+**Web Assistant**
+* Updated and maintained existing Library web pages.
+* Created new pages for Library homepage.
+* Assisted in migrating staff intranet pages to Drupal CMS.
+* Provided research assistance for new Library web site features.
+
+### Loyola University Chicago, Chicago, IL
+January 2009 – May 2010
+**Teaching Assistant**
+* Graded student papers, projects, and presentations. 
+* Gave substitute lectures in event of professors' absences. 
+* Provided tutoring and support for students' writing, research papers, and presentations.
+
+SELECTED COURSEWORK
+Client-Side Web Development, Winter 2010
+Built standards-compliant dynamic XHTML web sites with JavaScript, using Dojo and jQuery libraries. Web Services Programming, Fall 2009
+Working on a team, built a RESTful Java Project which emulated functionality of Meetup.org.
+Gained an understanding of REST, SOAP, and message-based web architectures. Markup Languages, Summer 2010
+Achieved proficiency with markup languages and concepts such as XML, XHTML, Xpath and XSLT, and Schema Languages. Gave a presentation on Scalable Vector Graphics.
+
+### Technology Skills
+Front-end development, standards-compliant XHTML/HTML5, CSS3, LESS CSS, JavaScript, jQuery, AJAX, version control, Git
