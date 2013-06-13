@@ -1,0 +1,12 @@
+# Template
+
+## Ingredients
+- ingredient one
+- ingredient two
+
+## Steps
+1. Step One
+2. Step Two
+
+## Source
+[http://www.url.com](http://url.com)
